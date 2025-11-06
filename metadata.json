@@ -1,0 +1,5 @@
+{
+  "name": "TRANSMEDIK LEAGUE",
+  "description": "An application to calculate and display points and standings for the TRANSMEDIK league. Users can add players, record match results, and see the leaderboard update automatically.",
+  "requestFramePermissions": []
+}
