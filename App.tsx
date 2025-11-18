@@ -10,8 +10,8 @@ const MATCH_IMPORTANCE = 10; // Importance for a friendly match
 
 const INITIAL_PLAYERS: Player[] = [
   { id: 1, name: 'Widy', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
-  { id: 2, name: 'Rizky', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
-  { id: 3, name: 'Imam', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
+  { id: 2, name: 'Arby Urban', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
+  { id: 3, name: 'King Nawawi', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
   { id: 4, name: 'Keysar', matchesPlayed: 0, wins: 0, draws: 0, losses: 0, rating: INITIAL_RATING },
 ];
 
